@@ -1,0 +1,7 @@
+Author: arkenidar
+Place: arkenidar/post-001
+Content:
+Hello and welcome!
+test: line 1
+test: line 2
+("Content" is a multi-line section)
